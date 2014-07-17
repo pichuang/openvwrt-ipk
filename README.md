@@ -1,4 +1,4 @@
-OpenvSwitch-OpenWrt ipk
+OpenvWrt ipk
 -----------------------
 
 ## How to use?
